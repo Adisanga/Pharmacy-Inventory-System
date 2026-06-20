@@ -1,1 +1,1 @@
-#A simple Pharmacy-Inventory-System java swing application.
+# simple Pharmacy-Inventory-System java swing application.
